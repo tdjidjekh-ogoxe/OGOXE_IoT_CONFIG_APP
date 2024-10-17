@@ -4,7 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88a631f5-794f-4f23-87b8-0addf43f586b" name="Changes" comment="Initial commit" />
+    <list default="true" id="88a631f5-794f-4f23-87b8-0addf43f586b" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Icons/Browse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Icons/Goute.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Icons/Modbus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Icons/application-exit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Icons/clear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Icons/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Icons/connect.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Icons/disconnect.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Icons/max.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Icons/min.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Icons/off-button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Icons/on-button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Icons/open.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Icons/settings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main_window.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,22 +40,34 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "tdjidjekh-ogoxe"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/tdjidjekh-ogoxe/OGOXE_IoT_CONFIG_APP.git",
+    "accountId": "b4d98e02-be55-4caf-88d9-6898031633fe"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2nWNHo7bbEKTZMUYXa4K7eHqm96" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="OGOXE_CONFIG_APP" />
@@ -46,8 +78,9 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.13" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
